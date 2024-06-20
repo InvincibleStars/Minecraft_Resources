@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "ore",
+        "name": "ore",
+	"platform_locked" : false,
+​        "uuid": "46be4d66-4b6f-1323-c7eb-34f23f71d582",
+​        "version": [0, 0, 1],
+​    },
+​    "modules": [
+​        {
+​            "description": "ore",
+​            "type": "resources",
+​            "uuid": "a306f646-332d-9b97-02c9-5073fa1f5800",
+​            "version": [0, 0, 1]
+​        }
+​    ]
+}
